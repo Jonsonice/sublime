@@ -1,0 +1,10 @@
+[
+	{ "keys": ["shift+tab"], "command": "reindent","args":{"single_line":false} },
+  { "keys": [ "ctrl+alt+v" ], "command": "view_in_browser" },
+  { "keys": [ "f5" ], "command": "view_in_browser", "args": { "browser": "firefox" } },
+  { "keys": [ "f3" ], "command": "view_in_browser", "args": { "browser": "chrome" } },
+  { "keys": [ "ctrl+alt+i" ], "command": "view_in_browser", "args": { "browser": "iexplore" } },
+  { "keys": [ "f4" ], "command": "view_in_browser", "args": { "browser": "safari" } },
+  { "keys": ["ctrl+alt+shift+a"], "command": "alignment" },
+  { "keys": ["ctrl+shift++alt+c"], "command": "convert_to_utf8", "args": {"encoding": "GBK", "stamp": "0" } }
+]
