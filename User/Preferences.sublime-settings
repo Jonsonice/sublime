@@ -1,6 +1,7 @@
 {
 	"auto_complete": true,
 	"auto_match_enabled": true,
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 	"e4x": true,
 	"file_exclude_patterns":
@@ -20,7 +21,15 @@
 	"format_on_save": true,
 	"ignored_packages":
 	[
+		"1337 Color Scheme",
+		"Align Arguments",
+		"GitGutter",
+		"Jedi Syntax",
 		"Markdown",
+		"ReactJS",
+		"SublimeLinter-csslint",
+		"Tomorrow Color Schemes",
+		"Tomorrow Night Italics Color Scheme",
 		"Vintage"
 	],
 	"line_padding_bottom": 5,
